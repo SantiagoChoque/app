@@ -40,8 +40,7 @@ Este repositorio contiene el desarrollo práctico del curso, organizado de la si
 * **Manejo de Variables:** Uso de tipos de datos básicos y operaciones aritméticas aplicadas a casos de estudio.
 
 #### 📈 Ejercicio 2: Cadenas de Markov (Proyecto Industrial)
-* **Análisis de Mercado:** Modelado estocástico para determinar el *market share* de instituciones educativas.
-* **Matrices de Transición:** Cálculo de probabilidades de estado estable para predecir comportamientos futuros del sistema.
+* **Diccionarios y listas:** En el segundo módulo se programó una estructura que nos permite registrar actividades financieras utilizando diccionarios y listas. Para la visualización del data frame generado por el registro se utilizó la librería **Pandas**
 
 #### 🛠️ Ejercicio 3: Estructuras de Datos y Listas
 * **Gestión de Información:** Uso de listas y diccionarios para organizar datos de producción.
