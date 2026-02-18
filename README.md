@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
 
-# 📊 Sistema de Actividad Financiera - Ingeniería Industrial
+# 📊 Sistema de Actividad Financiera 
 
 Este proyecto consiste en una aplicación interactiva desarrollada en **Python** utilizando **Streamlit**. La aplicación permite la gestión y el seguimiento de presupuestos para diversas actividades financieras, facilitando la visualización del estado de gasto frente al presupuesto asignado.
 
@@ -74,6 +74,7 @@ streamlit run app.py
 ## ✏️Autor: Santiago Gabriel Choque Fernández
 * Repositorio GitHub: [https://github.com/SantiagoChoque/app/](https://github.com/SantiagoChoque/app/)
 * Aplicación en Streamlit Cloud: [https://app-santiagochoque.streamlit-app](https://app-santiagochoque.streamlit.app)
+* Correo: sgchoquefer@gmail.com
 * Año: 2026
 
 
