@@ -74,7 +74,7 @@ if pagina == "🏠 Home":
     
     col1,col2,col3=st.columns(3)
     with col1:
-        st.image("PYTHON.png", caption="Python")
+        st.image("img/PYTHON.png", caption="Python")
     with col2:
         st.image("STREAMLIT.png",caption="Streamlit")
     with col3:
@@ -330,3 +330,4 @@ if pagina == "📙 Ejercicio 4:":
         if st.button("🚮 Eliminar actividades:"):
             st.session_state.objetos=[]
             st.rerun()
+
