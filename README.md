@@ -54,24 +54,24 @@ Este proyecto consiste en una aplicación interactiva desarrollada en **Python**
 * **Encapsulamiento:** Cada actividad es un objeto con sus propios atributos y métodos (como `esta_en_presupuesto` y `mostrar_info`).
 * **Modularidad:** Demuestra cómo organizar código complejo de forma escalable y mantenible.
 
-## 🛠️ Instrucciones de Uso
+# 🛠️ Instrucciones de Uso
 
-# Clonar Repositorio:
+## Clonar Repositorio:
 ```bash
 git clone [https://github.com/SantiagoChoque/app.git](https://github.com/SantiagoChoque/app.git)
 cd app
 ```
 
-# Instalar dependencias
+## Instalar dependencias
 ```bash
 pip install -r requirements.txt
 
 ```
-# Ejecutar aplicación
+## Ejecutar aplicación
 ```bash
 streamlit run app.py
 ```
-# ✏️Autor: Santiago Gabriel Choque Fernández
+## ✏️Autor: Santiago Gabriel Choque Fernández
 * Repositorio GitHub: [https://github.com/SantiagoChoque/app/](https://github.com/SantiagoChoque/app/)
 * Aplicación en Streamlit Cloud: [https://app-santiagochoque.streamlit-app](https://app-santiagochoque.streamlit.app)
 * Año: 2026
