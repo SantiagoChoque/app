@@ -34,16 +34,18 @@ Este proyecto consiste en una aplicación interactiva desarrollada en **Python**
 
 ## 🛠️ Instrucciones de Uso
 
-#Clonar Repositorio:
+# Clonar Repositorio:
 ```bash
 git clone [https://github.com/SantiagoChoque/app.git](https://github.com/SantiagoChoque/app.git)
 cd app
 ```
-#Instalar dependencias
+
+# Instalar dependencias
 ```bash
 pip install -r requirements.txt
+
 ```
-#Ejecutar aplicación
+# Ejecutar aplicación
 ```bash
 streamlit run app.py
 ```
