@@ -72,8 +72,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 # ✏️Autor: Santiago Gabriel Choque Fernández
-Repositorio GitHub: [(https://github.com/SantiagoChoque/app/)](https://github.com/SantiagoChoque/app/)
-Aplicación en Streamlit Cloud: [([[https://app-santiagochoque.streamlit-app](https://app-santiagochoque.streamlit.app)]
-Año: 2026
+* Repositorio GitHub: [https://github.com/SantiagoChoque/app/](https://github.com/SantiagoChoque/app/)
+* Aplicación en Streamlit Cloud: [https://app-santiagochoque.streamlit-app](https://app-santiagochoque.streamlit.app)
+* Año: 2026
 
 
