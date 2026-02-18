@@ -31,6 +31,28 @@ Este proyecto consiste en una aplicación interactiva desarrollada en **Python**
  ┣ 📜 requirements.txt   # Dependencias del proyecto
  ┗ 📜 README.md          # Documentación
 ```
+### 📂 Desglose de Ejercicios
+
+Este repositorio contiene el desarrollo práctico del curso, organizado de la siguiente manera:
+
+#### 📝 Ejercicio 1: Fundamentos de Python
+* **Lógica Básica:** Implementación de estructuras de control (if/else, bucles) para resolución de problemas matemáticos simples.
+* **Manejo de Variables:** Uso de tipos de datos básicos y operaciones aritméticas aplicadas a casos de estudio.
+
+#### 📈 Ejercicio 2: Cadenas de Markov (Proyecto Industrial)
+* **Análisis de Mercado:** Modelado estocástico para determinar el *market share* de instituciones educativas.
+* **Matrices de Transición:** Cálculo de probabilidades de estado estable para predecir comportamientos futuros del sistema.
+
+#### 🛠️ Ejercicio 3: Estructuras de Datos y Listas
+* **Gestión de Información:** Uso de listas y diccionarios para organizar datos de producción.
+* **Filtros de Datos:** Implementación de funciones para buscar y filtrar información específica dentro de colecciones de datos.
+
+#### 📙 Ejercicio 4: Sistema de Actividad Financiera
+* **Programación Orientada a Objetos (POO):** Creación de la clase `Actividad` para encapsular datos y comportamiento financiero.
+* **Control Presupuestal:** Interfaz interactiva en Streamlit que permite agregar actividades y validar si el gasto real está dentro del presupuesto.
+* **Persistencia de Datos:** Implementación de `st.session_state` para mantener la lista de actividades actualizada sin perder datos al recargar la página.
+
+
 
 ## 🛠️ Instrucciones de Uso
 
