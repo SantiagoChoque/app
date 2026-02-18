@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd 
 
 ejercicios = ["🏠 Home", "📕 Ejercicio 1:", "📗 Ejercicio 2:", "📘 Ejercicio 3:", "📙 Ejercicio 4:"]
-st.sidebar.image("DMC.png")
+st.sidebar.image("img/DMC.png")
 st.sidebar.title("Navegación: ",text_alignment="left")
 pagina = st.sidebar.selectbox("Elija el ejercicio: ", ejercicios)
 #------------------------------------------------------------------------------------------------------------------------------
@@ -330,5 +330,6 @@ if pagina == "📙 Ejercicio 4:":
         if st.button("🚮 Eliminar actividades:"):
             st.session_state.objetos=[]
             st.rerun()
+
 
 
