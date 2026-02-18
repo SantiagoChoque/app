@@ -1,9 +1,0 @@
-[theme]
-primaryColor = "#4d56db"
-backgroundColor = "#1A3D64"
-secondaryBackgroundColor = "#0C2B4E"
-textColor = "#94B4C1"
-font = "Sans-serif"
-
-[theme.sidebar]
-showWidgetBorder=true
