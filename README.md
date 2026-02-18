@@ -31,27 +31,28 @@ Este proyecto consiste en una aplicación interactiva desarrollada en **Python**
  ┣ 📜 requirements.txt   # Dependencias del proyecto
  ┗ 📜 README.md          # Documentación
 ```
-### 📂 Desglose de Ejercicios
+### 📂 Desglose de los Módulos del Proyecto
 
-Este repositorio contiene el desarrollo práctico del curso, organizado de la siguiente manera:
+#### 🏠 Home (Panel Principal)
+* **Vista General:** Presenta los objetivos del proyecto y datos generales.
 
-#### 📝 Ejercicio 1: Fundamentos de Python
-* **Lógica Básica:** Implementación de estructuras de control (if/else, bucles) para resolución de problemas matemáticos simples.
-* **Manejo de Variables:** Uso de tipos de datos básicos y operaciones aritméticas aplicadas a casos de estudio.
+#### 📕 Ejercicio 1: Variables y Condicionales
+* **Lógica de Comparación:** Implementación de un verificador simple de presupuesto.
+* **Control de Flujo:** Uso de estructuras `if-else` para comparar montos y determinar si existe un excedente o déficit de dinero en tiempo real.
 
-#### 📈 Ejercicio 2: Cadenas de Markov (Proyecto Industrial)
-* **Diccionarios y listas:** En el segundo módulo se programó una estructura que nos permite registrar actividades financieras utilizando diccionarios y listas. Para la visualización del data frame generado por el registro se utilizó la librería **Pandas**
+#### 📗 Ejercicio 2: Listas y Diccionarios
+* **Estructuras de Datos:** Registro de múltiples actividades financieras mediante diccionarios almacenados en listas.
+* **Integración con Pandas:** Conversión de datos en un `DataFrame` para una visualización tabular profesional.
+* **Persistencia:** Uso de `st.session_state` para mantener la tabla de datos actualizada durante la navegación.
 
-#### 🛠️ Ejercicio 3: Estructuras de Datos y Listas
-* **Gestión de Información:** Uso de listas y diccionarios para organizar datos de producción.
-* **Filtros de Datos:** Implementación de funciones para buscar y filtrar información específica dentro de colecciones de datos.
+#### 📘 Ejercicio 3: Funciones y Programación Funcional
+* **Cálculo de Retorno:** Implementación de funciones para proyectar el retorno esperado basado en interés simple.
+* **Optimización de Código:** Uso de **expresiones Lambda** y la función **Map** para procesar listas de datos de manera eficiente.
 
-#### 📙 Ejercicio 4: Sistema de Actividad Financiera
-* **Programación Orientada a Objetos (POO):** Creación de la clase `Actividad` para encapsular datos y comportamiento financiero.
-* **Control Presupuestal:** Interfaz interactiva en Streamlit que permite agregar actividades y validar si el gasto real está dentro del presupuesto.
-* **Persistencia de Datos:** Implementación de `st.session_state` para mantener la lista de actividades actualizada sin perder datos al recargar la página.
-
-
+#### 📙 Ejercicio 4: Programación Orientada a Objetos (POO)
+* **Paradigma de Clases:** Modelado del sistema financiero mediante la clase `Actividad`.
+* **Encapsulamiento:** Cada actividad es un objeto con sus propios atributos y métodos (como `esta_en_presupuesto` y `mostrar_info`).
+* **Modularidad:** Demuestra cómo organizar código complejo de forma escalable y mantenible.
 
 ## 🛠️ Instrucciones de Uso
 
@@ -70,8 +71,9 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-Autor: Santiago Gabriel Choque Fernández
-
+# ✏️Autor: Santiago Gabriel Choque Fernández
+Repositorio GitHub: [(colocar enlace)](https://github.com/SantiagoChoque/app/)
+Aplicación en Streamlit Cloud: [(colocar enlace)](https://app-santiagochoque.streamlit.app)
 Año: 2026
 
 
