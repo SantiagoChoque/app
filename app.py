@@ -76,9 +76,9 @@ if pagina == "🏠 Home":
     with col1:
         st.image("img/PYTHON.png", caption="Python")
     with col2:
-        st.image("STREAMLIT.png",caption="Streamlit")
+        st.image("img/STREAMLIT.png",caption="Streamlit")
     with col3:
-        st.image("PANDAS.png", caption="Pandas")
+        st.image("img/PANDAS.png", caption="Pandas")
     st.divider()
 
 #------------------------------------------------------------------------------------------------------------------------------
@@ -330,4 +330,5 @@ if pagina == "📙 Ejercicio 4:":
         if st.button("🚮 Eliminar actividades:"):
             st.session_state.objetos=[]
             st.rerun()
+
 
